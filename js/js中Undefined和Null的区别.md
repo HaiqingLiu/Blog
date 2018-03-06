@@ -1,8 +1,5 @@
 # js中Undefined和Null的区别
 
-标签（空格分隔）： js
-
----
 
 Undefined类型只有一个值就是undefined，Null类型也只有一个值就是null；
 Undefined其实就是已声明未赋值的变量输出的结果；
