@@ -184,5 +184,7 @@ JQuery.extend([deep], target, object1, objecr[N]);
 >其实对于javaScript的深拷贝和浅拷贝方法还有很多，这里只是介绍了常见的几种方式。
 
 ###### [参考] 
+
 https://www.zhihu.com/question/23031215
+
 https://github.com/Wscats/Good-text-Share/issues/57
