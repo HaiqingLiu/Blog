@@ -16,6 +16,8 @@
 
 >**注**：cnpm跟npm用法完全一致，只是在执行命令时将npm改为cnpm。
 
+>命令：  ng set --global packageManager=cnpm
+
 
 【参考】
 
